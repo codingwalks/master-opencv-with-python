@@ -86,6 +86,15 @@
 * [OpenCV 모폴로지 함수](ch13-01.py)
 * [watershed 알고리즘을 이용한 동전 분류](ch13-02.py)
 
+### Lecture14 - 외곽선 검출과 레이블링
+* [cv2.findContours](ch14-01.py)
+* [cv2.approxPolyDP](ch14-02.py)
+* [cv2.convexHull](ch14-03.py)
+* [cv2.moments](ch14-04.py)
+* [실시간 외곽선 검출](ch14-05.py)
+* [cv2.connectedComponents를 사용한 레이블링](ch14-06.py)
+* [cv2.findContours를 사용한 레이블링](ch14-07.py)
+
 ### Practice01 - 각도 측정기
 * [세점을 사용하는 각도 측정 방법](pt01-01.py)  
 
