@@ -82,10 +82,12 @@
 * [cv2.adaptiveThreshold](ch12-02.py)
 * [Otsu's threshold](ch12-03.py)
 
+### Lecture13 - 모폴로지
+* [OpenCV 모폴로지 함수](ch13-01.py)
+* [watershed 알고리즘을 이용한 동전 분류](ch13-02.py)
+
 ### Practice01 - 각도 측정기
 * [세점을 사용하는 각도 측정 방법](pt01-01.py)  
 
 ### Practice02 - 웹캠을 활용한 생상 인식 및 그리기
-* [웹캠을 활용한 색상 인식 및 그리기 실습](pt02-01.py)  
-
-plt.savefig('results/edge1.png', dpi=200, facecolor='#eeeeee', edgecolor='black')
+* [웹캠을 활용한 색상 인식 및 그리기 실습](pt02-01.py)
